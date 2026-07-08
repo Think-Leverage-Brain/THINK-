@@ -1,0 +1,59 @@
+	BUYER CONTRACT TO CLOSE		
+Assignee	Task	When?	Description
+AGENT	Send Ratified contract to TC Team (listings@thinknewman.com)	0 days after Contract Date	
+AGENT	Check ratified contract for completeness and accuracy	0 days after Contract Date	Check ratified contract for accuracy, all signatures etc. Send out if not complete, and save if complete
+ADMIN	Check ratified contract for completeness and accuracy (2nd)	Immediately 	Check ratified contract for accuracy, all signatures etc. Send out if not complete, and save if complete
+ADMIN	Submit for Compliance Review and add to spreadsheet tracker	Immediately	Submit for Compliance Review and add to spreadsheet tracker
+ADMIN	Confirm Resale Packet has been ordered by the listing agent 	Immediately 	Confirm Resale Packet has been ordered by the listing agent 
+AGENT	Call to client, whats next!	Immediately, either before or after client email goes out 	Call to client, explain what will be happening next 
+ADMIN	Send Closing Team Intro Email to Client	Immediately	Send email to Buyer, cc agent
+ADMIN	Send Intro Email to all Parties	Immediately	Send email to Co-Op Agent, Lender, and Title to open escrow and provide details/contact info for Buyer(s)
+AGENT	Schedule Home Inspection(s) and provide schedule to TC	Immediately	Schedule all inspections with Co-Op Agent if the agent hasn't already scheduled 
+AGENT	Order Termite Inspections	Immediately	Schedule all inspections with Co-Op Agent if the agent hasn't already scheduled 
+ADMIN	Confirm scheduled HI with LA (Reschedule if necessary)	Immediately	If the requested day and time doesn't work find a better one repeat steps 10-12
+ADMIN	Email Client and Listing Agent of Inspection Dates	Immediately 	Email Client and Listing Agent of Inspection Dates
+AGENT	Confirm plan to receive EMD	Immediately 	Turn in EMD to Brokerage or Title Co and send receipt to Co-Op Agent
+ADMIN	Financing Application Complete Confirmation	immediately	Confirm that a financing application has been completed with the lender (typically done before offer submitted)
+ADMIN	MLS - Confirm Buyer's agent is added in MLS and status has been updated	immediately	
+ADMIN	Appraisal order confirmation	3-4 days after contract ratification 	Confirm the lender has ordered the appraisal 
+ADMIN	EMD receipt FU/Send Receipt to LA 	4 days after ratification 	Follow up to make sure the EMD has been delivered send confirmation/receipt to LA 
+AGENT	Review Home Inspection with Buyer(s)	4 days after ratification 	Review Home Inspection results with Buyer(s) and draft Home Inspection Addendum
+AGENT	Draft counter-addendum for Home Inspection	4 days after ratification 	If Home Inspection Addendum not acceptable, draft a counter
+AGENT	Send counter or signed Home Inspection Addendum to Co-Op Agent	4 days after ratification or at least 1 day before expiration whichever is first 	Send signed Home Inspection Addendum or counter-addendum to Co-Op Agent
+ADMIN	Confirm HI contingencies have been removed 	5 days after	Confirm that an agreement between parties has been reached and we are moving forward 
+ADMIN	Confirm HI addendum executed	1 day before expiration of the HI addendum 	Confirm that we received the executed addendum 
+ADMIN	Save ratified Home Inspection Addendum	1 day after contingency removed 	Save ratified Home Inspection Addendum and upload to file for Broker Compliance
+ADMIN	Confirm Title Work has been ordered	7 days after ratification	Complete Title Co Docs and cofirm that an order has been placed 
+ADMIN	Check with lender appraisal status	5 days after appraisal completed	Check in on the status of the appraisal, likely won't be back but good to keep us on track 
+ADMIN	Appraisal update to buyer/buyer agent- no lender required repairs	would receive from lender when appraisal is complete 2-3wks after ratification (typically)	Provide the update to the BA that appraisal is back at value without repairs 
+ADMIN	Appraisal update to buyer/buyer agent- Lender Required Repairs	would receive from lender when appraisal is complete 2-3wks after ratification (typically)	Provide the update to the BA that appraisal and communicate the issues/create the plan to address 
+AGENT	Confirm w/ buyer/listing agent how repairs will be handled 	immediately after receiving appraisal w/ lender required repairs 	Will the buyer or seller be responsible for the repairs, check the financing addendum for pre-agreed to lender required repair amount 
+AGENT	Schedule repairs with team contractors 	After agreeing on how repairs will be completed 	Reach out to the contractors our team has a relationship with to schedule repairs we are responsible for 
+ADMIN	Financing Commitment Complete Confirmation	Two days before the expiration of the financing contingency 	Confirm withh the lender that we have a financing commitment 
+ADMIN	Confirm Repairs Made & Request Receipts 	7 days before closing	Confirm with Co-Op Agent or our contractor that repairs are complete and receipts submitted
+ADMIN	Send Termite Report./Receipt to Lender/Title Co	7 days before closing 	Send the complete termite report and paid invoice to the lender 
+ADMIN	Send Resale Packet & HOA Receipt to Buyer	Immediately after listing agent provides 	Send the HOA resale packet to the buyers for review and discuss the timeline for termination 
+ADMIN	HOA addendum executed	2 days after provided to buyer 	Send back the signed HOA Transmittal to the listing agent 
+ADMIN	Request Utilities from Listing Agent	7 days before closing	
+ADMIN	Send Utilities Info to Buyer	7 days before closing	
+ADMIN	Request preliminary ALTA	7 days before closing	Request Closing Docs from Title Co for review
+ADMIN	Email Client to confirm requested Settlement and Walk Through Details	7 days before closing 	Email to Buyer asking availability of settlement and walk through
+ADMIN	Schedule Closing with Title Company 	7 days before closing 	Schedule Settlement with Buyer(s); Time, day and location
+ADMIN	Confirm with Title and Lender about Settlement Details	immediately after scheduled time confirmed	Confirm the buyer requested day time and location is okay with the title company 
+ADMIN	Email to LA with Settlement and Walk Through Details	7 days before closing 	Email the closing date and the requested walkthrough date to the listing agent 
+ADMIN	Email client confirmed settlement and walkthrough details 	7 days before closing 	Email the client when we have confirmation of the settlement day time and location 
+ADMIN	Send a calendar invite to BA and the client for settlement and WT	7 days before closing 	Send a calendar invite to BA and the client for settlement and WT
+AGENT	Order Closing Gift 	7 days before closing after financing approval if possible 	Confirm whether or not the buyer's agent needs a closing gift ordered 
+ADMIN	Request Final ALTA & Check copies	5 days before settlement 	Save copies of checks & ALTA
+ADMIN	Review ALTA and Send to Agent	5 days before closing 	Discuss Closing Docs with Buyer(s) OR schedule time with the lender/title company to review w/ them 
+AGENT	Review ALTA with Client 	5 days before closing 	Discuss Closing Docs with Buyer(s)
+ADMIN	Confirm w/ lender CD was sent, signed and returned 	3 days before closing 	Confirm w/ lender CD was sent, signed and returned 
+ADMIN	Request Home Warranty receipt (If applicable)	3 days before closing 	Request Home Warranty receipt from Co-Op Agent
+ADMIN	Confirm Lender clear-to-close	3 days before closing 	Confirm that Lender has issued clear-to-close
+ADMIN	Confirm Funds to Close received from Buyers - Email to Title	2 days before closing 	
+ADMIN	Submit Commission info in Command Opportunities	0 day before closing 	Enter Commissions into Command Opportunity
+ADMIN	Update Think Compass with Closed Date if closing was successful	0 day before closing 	
+ADMIN	Scan Checks and save in Google Drive	1 day after settlement	Scan Checks and save in Google Drive
+ADMIN	Deliver Check and CD to KWF	1 day after settlement	Deliver Check and CD to KWF
+ADMIN	Request Testimonial -	1 day after settlement	Request Testimonial - Google, Facebook and Zillow 
+ADMIN	Schedule email to send ALTA to buyer on January 2022	January of the next year	Schedule email to send ALTA to buyer on January 2022
